@@ -17,6 +17,24 @@ The sample currently includes mass and spin measurements for unobscured and mild
 
 Only black hole spin estimates derived from X-ray reflection spectroscopy are included.
 
+## Related publications
+
+The compilation was developed in association with the Invited Review [Sisk-Reynes et al., 2026, Galaxies, 14, 3, id.50](https://www.mdpi.com/2075-4434/14/3/50). 
+
+A further quantitative analysis of the SMBH spin distribution will be presented in a _NewAthena_ Special Issue paper I am co-lead author of which will be submitted in September 2026. The title of this paper is "Unravelling the supermassive black hole spin distribution with _NewAthena_", and is additionally led by Drs. Peter Boorman and Joanna Piotrowska.
+
+## Citation
+
+If you use this compilation in your research, please cite:
+
+[Sisk-Reynes et al., 2026, Galaxies, 14, 3, id.50](https://www.mdpi.com/2075-4434/14/3/50). 
+
+## Updating the compilation
+
+The catalogue is intended to be updated as new X-ray reflection measurements become available or existing measurements are revised.
+
+If you identify a result that should be included, please open an issue or contact me at [jsiskrey1@umbc.edu](mailto:jsiskrey1@umbc.edu).
+
 ## Data
 
 The `data/` directory contains the compiled measurements and associated quantities.
@@ -28,24 +46,6 @@ The principal catalogue, first presented in [Sisk-Reynes et al., 2026](https://u
 The [Mallick et al., 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.4361M/abstract) compilation of low-mass AGN measurements is also provided as:
 
 `mallick_2022_spin_mass.csv`
-
-## Related publications
-
-The compilation was developed in association with the Invited Review [Sisk-Reynes et al., 2026, Galaxies, 14, 3, id.50](https://www.mdpi.com/2075-4434/14/3/50). 
-
-A further quantitative analysis of the SMBH spin distribution will be presented in a _NewAthena_ Special Issue paper I am co-lead author of which will be submitted in September 2026. The title of this paper is "Unravelling the supermassive black hole spin distribution with _NewAthena_", and is additionally led by Drs. Peter Boorman and Joanna Piotrowska.
-
-## Updating the compilation
-
-The catalogue is intended to be updated as new X-ray reflection measurements become available or existing measurements are revised.
-
-If you identify a result that should be included, please open an issue or contact me at [mailto:](jsiskre1@umbc.edu).
-
-## Citation
-
-If you use this compilation in your research, please cite:
-
-[Sisk-Reynes et al., 2026, Galaxies, 14, 3, id.50](https://www.mdpi.com/2075-4434/14/3/50). 
 
 ## License
 
