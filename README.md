@@ -55,4 +55,4 @@ This repository is distributed under a Creative Commons Attribution 4.0 Internat
 
 Dr. Julia M. Sisk Reynes  
 University of Maryland, Baltimore County  
-[personal website](https://jsiskreynes-astro.github.io)
+[Personal website](https://jsiskreynes-astro.github.io)
