@@ -1,4 +1,4 @@
-# SMBH Spin–Mass Compilations (with Spins inferred from X-ray Reflection Spectroscopy)
+# SMBH Spin–Mass Compilations (X-ray Reflection Spins)
 
 A continuously updated compilation of supermassive black hole mass and spin measurements inferred from X-ray reflection spectroscopy.
 
